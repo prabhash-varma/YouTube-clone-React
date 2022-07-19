@@ -13,7 +13,7 @@ function App() {
   const [loader,setLoader]=useState(false);
 
  
-  const maxResults=12;
+  const maxResults=20;
 
   const search = async ()=>{
 
